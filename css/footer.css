@@ -8,7 +8,7 @@
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 200px;
+  gap: 100px;
   align-items: center;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .footer-copy{
-  grid-column: 1/-1;
+  grid-column: 1/-1; /* Ocupa apenas a última coluna*/
   font-size: 1.125rem;
   color: #8f8f8f;
 }

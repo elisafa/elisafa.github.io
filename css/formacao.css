@@ -9,7 +9,7 @@
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 2fr;
-  gap: 200px;
+  gap: 100px;
   position: relative;
 }
 
